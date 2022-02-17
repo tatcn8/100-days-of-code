@@ -9,17 +9,3 @@
 **Link to work:** https://git.generalassemb.ly/ted-t/sql-lab My work is in: /Carmen/find_carmen.sql and /NFL/nfl.sql
 
 
-### Day 2: February 18, 2022 
-**Today's Progress**: MY CONTENT HERE
-
-**Thoughts:**: MY CONTENT HERE
-
-**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
-
-
-### Day 2: February 18, 2022 
-**Today's Progress**: MY CONTENT HERE
-
-**Thoughts:**: MY CONTENT HERE
-
-**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
