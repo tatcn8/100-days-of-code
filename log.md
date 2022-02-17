@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 17, 2022 
 
 **Today's Progress**: Worked on sorting through seed data using SQL commands in the CLI
 
@@ -9,3 +8,18 @@
 
 **Link to work:** https://git.generalassemb.ly/ted-t/sql-lab My work is in: /Carmen/find_carmen.sql and /NFL/nfl.sql
 
+
+### Day 2: February 18, 2022 
+**Today's Progress**: MY CONTENT HERE
+
+**Thoughts:**: MY CONTENT HERE
+
+**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
+
+
+### Day 2: February 18, 2022 
+**Today's Progress**: MY CONTENT HERE
+
+**Thoughts:**: MY CONTENT HERE
+
+**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
