@@ -18,8 +18,23 @@
 
 
 ### Day 3: February 19, 2022 
-**Today's Progress**: MY CONTENT HERE
+**Today's Progress**: Practiced writing functions in both Javascript and Python. Kept it to mostly basic functions (it is Saturday after all) and all the work was found on Codewars. There is an examply snippet (in both JS and Python) below.
 
-**Thoughts:**: MY CONTENT HERE
+**Thoughts:**: Continuing to enjoy playing with Python. Amazed at how quickly the muscle memory returns after taking a few months off from it. 
 
-**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
+**Link to work:** 
+Python:
+def update_light(current):
+    if (current =="green"): return ("yellow")
+    if (current =="yellow"): return ("red")
+    if (current =="red"): return ("green")
+
+JS:
+function updateLight(current) {
+  if (current === 'green') return 'yellow';
+  if (current === 'yellow') return 'red';
+  if (current === 'red') return 'green';
+  
+
+}
+
