@@ -17,3 +17,9 @@
 **Link to work:** https://github.com/tatcn8/python_practice-/blob/main/python_cuckoo.py
 
 
+### Day 3: February 19, 2022 
+**Today's Progress**: MY CONTENT HERE
+
+**Thoughts:**: MY CONTENT HERE
+
+**Link to work:** [Calculator App](http://www.example.com) (MY EXAMPLE HERE)
