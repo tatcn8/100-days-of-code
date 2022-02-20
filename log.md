@@ -38,3 +38,9 @@ function updateLight(current) {
 
 }
 
+### Day 4: February 20, 2022 
+**Today's Progress**: Built out the front end of a budgeting app. Going to eventually build out the backend using MongoDB to be able to track my expenses over time.
+
+**Thoughts:**: React has been a very familiar front end platform. Really this app was a matter of installing the right dependencies (reactstrap, node) and then writing some basic Javascript for the form functionality. I will post a link when it's finished.
+
+**Link to work:** I will post a Git link when I am finished.
