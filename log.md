@@ -45,7 +45,7 @@ function updateLight(current) {
 
 **Link to work:** I will post a Git link when I am finished.
 
-### Day 3: February 21, 2022 
+### Day 5: February 21, 2022 
 **Today's Progress**: More Python today, worked on a bootcamp assignment for a guessing game involving the state capitals.
 
 **Thoughts:**: Happy President's Day! The hardest part of this coding challenge so far has been targeting list elements from a python dictionary; but once I figured it out it wasn't too bad. Need to work on a for loop so that the game can be played continuously without having to click "play" each time.
