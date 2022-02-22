@@ -52,3 +52,10 @@ function updateLight(current) {
 
 **Link to work:** Will post Git Repo when finished :)
 
+### Day 6: February 22, 2022 
+**Today's Progress**: Finished the python state capital guessing game. There is one small bug due to the way I am running the for loop, but ran out of time to figure it all the way out. Going to be working on Python all day today.
+
+**Thoughts:**: Had a lot of fun with this one; ran into a lot of blockers and slowly overcame them. Found indentation matters in Python quite a bit. Like I said, one small bug remains, but for the most part the game is playable.
+
+**Link to work:** [State Capitals Game](https://git.generalassemb.ly/ted-t/python-state-capitals)
+
