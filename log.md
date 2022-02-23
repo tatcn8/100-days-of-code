@@ -59,3 +59,10 @@ function updateLight(current) {
 
 **Link to work:** [State Capitals Game](https://git.generalassemb.ly/ted-t/python-state-capitals)
 
+### Day 7: February 23, 2022 
+**Today's Progress**: Worked on Django installs as well as some more python. Worked specifically on the .super() command to pass functions to subclasses.
+
+**Thoughts:**: Still enjoying python but deep down missing javascript. I also started a side project using React/JS and am just now realizing that I probably started that project due to some frustration with python.
+
+**Link to work:** Not much to show today, maybe I'll link my side project tomorrow.
+
