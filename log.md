@@ -79,9 +79,9 @@ function updateLight(current) {
 **Thoughts:**: I read about 65 pages of Ruby documentation from the "Ruby is fun" github...Really enjoying that documentation so far. Django is pretty cool in that it corrects a database plus its own UI.
 
 **Link to work:** Here is my SUPER simple (but first ever) Ruby program!
-<!-- 
+
 puts "Your age?"
 age = gets
 puts "=" * 80
 puts "Your age is " + age
- -->
+
