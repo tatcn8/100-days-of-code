@@ -67,8 +67,9 @@ function updateLight(current) {
 **Link to work:** Not much to show today, maybe I'll link my side project tomorrow.
 
 ### Day 8: February 24, 2022 
-**Today's Progress**: Working on Django for backend data. This is my first experience with a relational database (a decent amount of experience with MongoDB which of course is non-relational). Have successfully deployed two Django backends, and did seed data into one. Also, making good progress on my side project (the ReactJS budgeting app).
+**Today's Progress**: Working on Django for backend data. This is my first experience with a relational database (a decent amount of experience with MongoDB which of course is non-relational). Have successfully deployed two Django backends, and did seed data into both (one is linked below). Also, making good progress on my side project (the ReactJS budgeting app).
 
 **Thoughts:**: Django is interesting. Quite a bit of work to get a backend built, but the UI is REALLLLLY nice compared to MongoDB. Also the SQL data is just easier to look at. Love the built in UI/functionality so far.
 
-**Link to work:** [Deployed book app](https://git.generalassemb.ly/ted-t/django-api-lab) There is NO data in this app yet, but the deployment was successful.
+**Link to work:** [Deployed book app](https://git.generalassemb.ly/ted-t/django-api-lab) There is some basic seed data in this app.
+
