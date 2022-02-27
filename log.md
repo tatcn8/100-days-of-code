@@ -85,3 +85,10 @@ age = gets
 puts "=" * 80
 puts "Your age is " + age
 
+
+### Day 10: February 26, 2022 
+**Today's Progress**: Didn't write a whole lot of code today (it is saturday...) but did read quite a bit of Ruby documentation. 
+
+**Thoughts:**: .chomp makes alot of sense. After a "gets" input, the user does press 'enter' so it would make sense that the string contains a new line...    .chomp prevents the line break and I think that's cool.  
+
+**Link to work:** Not much to show today :) 
