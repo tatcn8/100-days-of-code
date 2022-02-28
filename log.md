@@ -99,3 +99,10 @@ puts "Your age is " + age
 **Thoughts:**: Similar to yesterday, did not code a ton today. But continued to work through the Ruby manual and still enjoying it. Spoke with a tech friend who reccomended learning some "Go" and did a bit of reading on that as well.
 
 **Link to work:** Not much to show; will be a jammed pack week of coding this coming week!
+
+### Day 11: February 28, 2022 
+**Today's Progress**: Spent the morning learning userAuth with Django and s3/AWS buckets for image uploads. Spent this afternoon working on mini project (for class) with a Django backend and a React frontend.
+
+**Thoughts:**: Everything went well in regards to fetching the Django data, everything sucked in regards to deleting the Django data. I tried using axios.delete and dynamically passed in the item's ${id} via props, but still couldn't get it. I will eventually.
+
+**Link to work:**: nothing deployed today.
