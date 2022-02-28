@@ -92,3 +92,10 @@ puts "Your age is " + age
 **Thoughts:**: .chomp makes alot of sense. After a "gets" input, the user does press 'enter' so it would make sense that the string contains a new line...    .chomp prevents the line break and I think that's cool.  
 
 **Link to work:** Not much to show today :) 
+
+### Day 11: February 27, 2022 
+**Today's Progress**: Ruby Ruby Ruby    
+
+**Thoughts:**: Similar to yesterday, did not code a ton today. But continued to work through the Ruby manual and still enjoying it. Spoke with a tech friend who reccomended learning some "Go" and did a bit of reading on that as well.
+
+**Link to work:** Not much to show; will be a jammed pack week of coding this coming week!
