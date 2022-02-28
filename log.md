@@ -100,7 +100,7 @@ puts "Your age is " + age
 
 **Link to work:** Not much to show; will be a jammed pack week of coding this coming week!
 
-### Day 11: February 28, 2022 
+### Day 12: February 28, 2022 
 **Today's Progress**: Spent the morning learning userAuth with Django and s3/AWS buckets for image uploads. Spent this afternoon working on mini project (for class) with a Django backend and a React frontend.
 
 **Thoughts:**: Everything went well in regards to fetching the Django data, everything sucked in regards to deleting the Django data. I tried using axios.delete and dynamically passed in the item's ${id} via props, but still couldn't get it. I will eventually.
