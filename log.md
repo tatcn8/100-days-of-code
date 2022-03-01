@@ -106,3 +106,10 @@ puts "Your age is " + age
 **Thoughts:**: Everything went well in regards to fetching the Django data, everything sucked in regards to deleting the Django data. I tried using axios.delete and dynamically passed in the item's ${id} via props, but still couldn't get it. I will eventually.
 
 **Link to work:**: nothing deployed today.
+
+### Day 13: March 1, 2022 
+**Today's Progress**: Worked on Python and Django app's all day. Built a little financial data/budgeting tool and it is linked below.
+
+**Thoughts:**: Included user authentication on this project which was really easy using Django. (Way easier than Mongo) I was unable to get it deployed to heroku, which is super lame, but I just ran out of time. It was giving me a pyscopg2 error, which was literally installed and I messed around with it for way too long. 
+
+**Link to work:**: https://github.com/tatcn8/python_mini_project
