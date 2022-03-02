@@ -113,3 +113,10 @@ puts "Your age is " + age
 **Thoughts:**: Included user authentication on this project which was really easy using Django. (Way easier than Mongo) I was unable to get it deployed to heroku, which is super lame, but I just ran out of time. It was giving me a pyscopg2 error, which was literally installed and I messed around with it for way too long. 
 
 **Link to work:**: https://github.com/tatcn8/python_mini_project
+
+### Day 14: March 2, 2022 
+**Today's Progress**: Built my first Ruby on Rails app (link to my git Repo below). Really pleased with the first day of exclusive rails
+
+**Thoughts:**: Went well. Honestly the hardest part was getting the installs made. Had to go through ASDF to get the most updated version of Ruby, Node, and Yarn installed. Was amazed at how quickly the CRUD functionality and user auth was implemented.
+
+**Link to work:**: https://github.com/tatcn8/rails_blog_demo
