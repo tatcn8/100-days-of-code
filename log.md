@@ -120,3 +120,10 @@ puts "Your age is " + age
 **Thoughts:**: Went well. Honestly the hardest part was getting the installs made. Had to go through ASDF to get the most updated version of Ruby, Node, and Yarn installed. Was amazed at how quickly the CRUD functionality and user auth was implemented.
 
 **Link to work:**: https://github.com/tatcn8/rails_blog_demo
+
+### Day 15: March 3, 2022 
+**Today's Progress**: Built another Rails app, this one is a budgeting tool. I have not gotten to styling yet, so as of now, it is pretty darn ugly.
+
+**Thoughts:**: Really enjoyed today. Started a ruby specific udemy course. Felt like I got the hang of building a CRUD rails app, sort of got the boilerplate down if that makes sense. So far, so good.
+
+**Link to work:**: https://github.com/tatcn8/rails_budget
