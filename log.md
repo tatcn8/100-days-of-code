@@ -127,3 +127,10 @@ puts "Your age is " + age
 **Thoughts:**: Really enjoyed today. Started a ruby specific udemy course. Felt like I got the hang of building a CRUD rails app, sort of got the boilerplate down if that makes sense. So far, so good.
 
 **Link to work:**: https://github.com/tatcn8/rails_budget
+
+### Day 16: March 4, 2022 
+**Today's Progress**: Worked through some more of the Ruby udemy course that I started yesterday. Spent about 6 hours on that, and then the rest of the time came up with a lightning presentation for php & laravel for bootcamp.
+
+**Thoughts:**: Ruby is cool. I have enjoyed re-learning "the basics" (data types/objects/classes etc) in this udemy course.
+
+**Link to work:**: nothing today bub
