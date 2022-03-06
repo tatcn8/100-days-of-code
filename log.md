@@ -134,3 +134,10 @@ puts "Your age is " + age
 **Thoughts:**: Ruby is cool. I have enjoyed re-learning "the basics" (data types/objects/classes etc) in this udemy course.
 
 **Link to work:**: nothing today bub
+
+### Day 17: March 5, 2022 
+**Today's Progress**: Continued to chip away at my Ruby Udemy course. Going to really ramp up to 10 days of hardcore Ruby on Rails programming beginning on Monday 3/7.
+
+**Thoughts:**: Learned alot of object methods today; really enjoying ruby :)
+
+**Link to work:**: nothing today bub
