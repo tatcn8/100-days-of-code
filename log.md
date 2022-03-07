@@ -141,3 +141,18 @@ puts "Your age is " + age
 **Thoughts:**: Learned alot of object methods today; really enjoying ruby :)
 
 **Link to work:**: nothing today bub
+
+### Day 18: March 6, 2022 
+**Today's Progress**: did not code at all today
+
+**Thoughts:**: BUT I did go to church and then fished all afternoon
+
+**Link to work:**: nothing today bub
+
+### Day 19: March 7, 2022 
+**Today's Progress**: did not code at all today
+
+**Thoughts:**: Began my bootcamp's capstone project which is going to be a financial data app (that I mentioned several days ago) As of now, it is super ugly, but I will get around to styling it once all the functionality is there. As of now, I have past data inputs/rendering as well as projected data input/rendering. The site is currently fully CRUDful.
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
+
