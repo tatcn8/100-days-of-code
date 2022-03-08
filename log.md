@@ -156,3 +156,9 @@ puts "Your age is " + age
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
 
+### Day 20: March 8, 2022 
+**Today's Progress**: All kinds of ruby on rails today; continuing to bang out my financial data project; pretty happy with today's progress.
+
+**Thoughts:**: Added user authentication via Devise; which was a new technology to me. It has been downloaded almost 90 million times on RubyGems. It definitely was not intuitive, but I found several youtube videos (plus stack overflow) which helped guide me through. 
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
