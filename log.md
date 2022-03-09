@@ -162,3 +162,10 @@ puts "Your age is " + age
 **Thoughts:**: Added user authentication via Devise; which was a new technology to me. It has been downloaded almost 90 million times on RubyGems. It definitely was not intuitive, but I found several youtube videos (plus stack overflow) which helped guide me through. 
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
+
+### Day 21: March 9, 2022 
+**Today's Progress**: Continuing to work on my Rails Financial app, got alot done today including a Bootstrap Navbar and some other styling/clean up things.
+
+**Thoughts:**: The site is looking good; need to add some more functionality, but overall I am very pleased with where this thing is.
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
