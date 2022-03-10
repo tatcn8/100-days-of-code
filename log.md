@@ -169,3 +169,10 @@ puts "Your age is " + age
 **Thoughts:**: The site is looking good; need to add some more functionality, but overall I am very pleased with where this thing is.
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
+
+### Day 22: March 10, 2022 
+**Today's Progress**: Continuing to work on Ruby on Rails finance app; did an awful lot of styling today, also worked quite a bit on functionality/basic ruby functions within the pages of the app.
+
+**Thoughts:**:First experience with bootstrap, so as you can imagine quite the learning curve. On the whole, really enjoying it.
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
