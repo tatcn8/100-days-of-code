@@ -184,3 +184,23 @@ puts "Your age is " + age
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
 
+### Day 24: March 12, 2022 
+**Today's Progress**: Out of town with wife :)
+
+**Thoughts:**:
+
+**Link to work:**: nope
+
+### Day 25: March 13, 2022 
+**Today's Progress**: Out of town with wife :)
+
+**Thoughts:**:
+
+**Link to work:**: nope
+
+### Day 26: March 14, 2022 
+**Today's Progress**: Deployed website to Heroku! (not going to share it today, because I have some extra stuff to add tomorrow)
+
+**Thoughts:**: Very excited to continue working in rails
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
