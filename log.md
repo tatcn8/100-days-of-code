@@ -204,3 +204,10 @@ puts "Your age is " + age
 **Thoughts:**: Very excited to continue working in rails
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
+
+### Day 27: March 15, 2022 
+**Today's Progress**: Finished my rails finance app; deployment link will be listed tomorrow
+
+**Thoughts:**: Super fun project; if you want to host it locally the git repo is below
+
+**Link to work:**: https://github.com/tatcn8/finance_data_on_rails
