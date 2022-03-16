@@ -211,3 +211,10 @@ puts "Your age is " + age
 **Thoughts:**: Super fun project; if you want to host it locally the git repo is below
 
 **Link to work:**: https://github.com/tatcn8/finance_data_on_rails
+
+### Day 28: March 16, 2022 
+**Today's Progress**: Rails finance app is up; create an account and poke around
+
+**Thoughts:**: Love me some code man. Today is the last day of my bootcamp and I start full time as a software engineer on 3/30 with Brand New Box. Thanks to my wife, my children, and my friend Will Carey for getting me through bootcamp and the frick out of healthcare.
+
+**Link to work:**: https://capstonefinance.herokuapp.com/
