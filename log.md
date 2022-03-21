@@ -218,3 +218,42 @@ puts "Your age is " + age
 **Thoughts:**: Love me some code man. Today is the last day of my bootcamp and I start full time as a software engineer on 3/30 with Brand New Box. Thanks to my wife, my children, and my friend Will Carey for getting me through bootcamp and the frick out of healthcare.
 
 **Link to work:**: https://capstonefinance.herokuapp.com/
+
+### Day 30: March 17, 2022 
+**Today's Progress**: Took some much need mental health breaks to celebrate bootcamp graduation. Went fishing/camping with my wife and children
+
+### Day 31: March 18, 2022 
+**Today's Progress**: Took some much need mental health breaks to celebrate bootcamp graduation. Went fishing/camping with my wife and children
+
+
+### Day 32: March 19, 2022 
+**Today's Progress**: Took some much need mental health breaks to celebrate bootcamp graduation. Went fishing/camping with my wife and children
+
+### Day 33: March 20, 2022 
+**Today's Progress**: Took some much need mental health breaks to celebrate bootcamp graduation. Went fishing/camping with my wife and children
+
+### Day 34: March 21, 2022 
+**Today's Progress**: back to Ruby and the Ruby is for fun repo on github. Signed the contract for my first official software engineering job with Brand New Box in Lawrence, KS.
+
+**Thoughts:**: Built a really fun random number game in ruby, and actually played it quite a few times lol.
+
+**Link to work:**: 
+
+num = rand(1..1_000_000)
+print "guess a number between one and a million: "
+
+loop do 
+    input = gets.to_i
+
+    if input == num
+        puts "you win!"
+        exit
+    end
+    if input < num
+        print "wrong; your guess was too low...guess a higher number: "
+    end
+    if input > num
+        print "wrong; your guess was too high...guess a lower number: "
+    end
+end
+
