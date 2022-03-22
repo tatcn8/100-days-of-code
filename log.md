@@ -239,6 +239,7 @@ puts "Your age is " + age
 
 **Link to work:**: 
 
+##### random number game 
 num = rand(1..1_000_000)
 print "guess a number between one and a million: "
 
@@ -257,3 +258,51 @@ loop do
     end
 end
 
+### Day 35: March 22, 2022 
+**Today's Progress**: Continuing to work through Ruby is Fun git repo, and built a fun/simple lottery program.
+
+**Thoughts:**: Beginning to really dig in on Array methods next and excited for this. Will be taking the next 3 days pretty easy as I have some other things going on.
+
+**Link to work:**: THIS is the git repo I am working off of: https://github.com/ro31337/rubyisforfun
+
+#### lottery program
+
+@balance = 20
+
+def lottery
+    x = rand(0..5)
+    y = rand(0..5)
+    z = rand(0..5)
+
+    if x == 0 && y == 0 && z == 0
+        @balance = @balance - @balance
+        puts "Result: #{x} #{y} #{z}" 
+        puts "You lost everything"
+    elsif x == 1 && y == 1 && z == 1
+        @balance += 10
+        puts "Result: #{x} #{y} #{z}" 
+        puts "you won $10"
+    elsif x == 2 && y == 2 && z == 2
+        @balance += 20
+        puts "Result: #{x} #{y} #{z}" 
+        puts "you won $20"
+    else 
+        @balance -= 0.5
+        puts "Result: #{x} #{y} #{z}" 
+        puts "another 50 cents down the terlet"
+    end
+end
+
+loop do 
+    if @balance >= 0.5
+        puts "Press Enter to pull handle"
+        gets
+        lottery
+        puts "your balance is #{@balance}"
+        puts "-----------------------------"
+    else
+        puts "your balance is #{@balance}"
+        puts "game over"
+        exit
+    end
+end
